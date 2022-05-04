@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/drawable/backgroundcolor.xml" value="0.19948717948717948" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_four_variable1st.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_four_variable2nd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_four_variable3rd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_four_variable4th_for_pos.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_help_page.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_main.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_no_of_variables_page.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_one_variable1st.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_one_variable2nd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_one_variable3rd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_one_variable4th_for_pos.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_splash_screen.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_three_variable1st.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_three_variable2nd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_three_variable3rd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_three_variable4th_for_pos.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_two_variable1st.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_two_variable2nd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_two_variable3rd.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-land/activity_two_variable4th_for_pos.xml" value="0.15784832451499117" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_four_variable1st.xml" value="0.16" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_four_variable2nd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_four_variable3rd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_four_variable4th_for_pos.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_help_page.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_no_of_variables_page.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_one_variable1st.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_one_variable2nd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_one_variable3rd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_one_variable4th_for_pos.xml" value="0.15" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_splash_screen.xml" value="0.13984375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_three_variable1st.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_three_variable2nd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_three_variable3rd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_three_variable4th_for_pos.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_two_variable1st.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_two_variable2nd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_two_variable3rd.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout-sw600dp/activity_two_variable4th_for_pos.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_four_variable1st.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_four_variable2nd.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_four_variable3rd.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_four_variable4th_for_pos.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_help_page.xml" value="0.17729534147444595" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_no_of_variables_page.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_one_variable1st.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_one_variable2nd.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_one_variable3rd.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_one_variable4th_for_pos.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_three_variable1st.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_three_variable2nd.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_three_variable3rd.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_three_variable4th_for_pos.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_two_variable1st.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_two_variable2nd.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_two_variable3rd.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/layout/activity_two_variable4th_for_pos.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/KMap/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

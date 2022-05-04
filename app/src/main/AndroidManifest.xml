@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.k_map">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KMap">
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity
+            android:name=".one_variable4th_for_pos"
+            android:exported="false"
+            android:parentActivityName=".one_variable_1st" />
+        <activity
+            android:name=".two_variable4th_for_pos"
+            android:exported="false"
+            android:parentActivityName=".two_variable_1st" />
+        <activity
+            android:name=".three_variable4th_for_pos"
+            android:exported="false"
+            android:parentActivityName=".three_variable_1st" />
+        <activity
+            android:name=".four_variable_4th_for_pos"
+            android:exported="false"
+            android:parentActivityName=".four_variable_1st" />
+        <activity
+            android:name=".Help_page"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".one_variable_3rd"
+            android:exported="false"
+            android:parentActivityName=".one_variable_1st" />
+        <activity
+            android:name=".one_variable_2nd"
+            android:exported="false"
+            android:parentActivityName=".one_variable_1st" />
+        <activity
+            android:name=".one_variable_1st"
+            android:exported="false"
+            android:parentActivityName=".no_of_variables_page" />
+        <activity
+            android:name=".two_variable_3rd"
+            android:exported="false"
+            android:parentActivityName=".three_variable_1st" />
+        <activity
+            android:name=".two_variable_2nd"
+            android:exported="false"
+            android:parentActivityName=".two_variable_1st" />
+        <activity
+            android:name=".two_variable_1st"
+            android:exported="false"
+            android:parentActivityName=".no_of_variables_page" />
+        <activity
+            android:name=".three_variable_3rd"
+            android:exported="false"
+            android:parentActivityName=".three_variable_1st" />
+        <activity
+            android:name=".three_variable_2nd"
+            android:exported="false"
+            android:parentActivityName=".three_variable_1st" />
+        <activity
+            android:name=".three_variable_1st"
+            android:exported="false"
+            android:parentActivityName=".no_of_variables_page" />
+        <activity
+            android:name=".four_variable_3rd"
+            android:exported="false"
+            android:parentActivityName=".four_variable_1st" />
+        <activity
+            android:name=".four_variable_2nd"
+            android:exported="false"
+            android:parentActivityName=".four_variable_1st" />
+        <activity
+            android:name=".four_variable_1st"
+            android:exported="false"
+            android:parentActivityName=".no_of_variables_page" />
+        <activity
+            android:name=".no_of_variables_page"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+        </activity>
+    </application>
+
+</manifest>
